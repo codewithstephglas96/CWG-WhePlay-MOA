@@ -1,0 +1,14 @@
+{
+  "version": "5.4.1",
+  "releaseDate": "2026-05-05",
+  "minimumLoaderVersion": "9.0.0",
+  "changeLog": [
+    "Fixed Hot Marks logic to exclude current week plays",
+    "Added dashboard-style timeline for hot numbers",
+    "Improved performance of shelf marks rendering",
+    "Fixed holiday handling in draw processing"
+  ],
+  "requiresUpdate": false,
+  "forceUpdate": false,
+  "changelogUrl": "https://github.com/codewithstephglas96/CWG-AdvCharts/releases"
+}
